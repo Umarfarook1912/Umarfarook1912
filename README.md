@@ -1,151 +1,199 @@
-<!--
-  GitHub Profile README
-  Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
--->
-
 <div align="center">
 
-# Hi there, I'm Umar Farook J 👋
+# UMAR FAROOK J
 
-### Software Development Engineer | Full Stack Developer
+### Software Development Engineer | Full-Stack Engineer
 
-Building scalable web applications, intuitive user experiences, and practical software solutions.
+**Building reliable software. Designing scalable systems. Solving real-world problems.**
 
 <p>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=flat-square" alt="Full Stack Development"/>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-I'm a **Software Development Engineer (SDE-1)** passionate about building modern web applications and solving real-world problems through technology.
+Software Development Engineer focused on designing, developing, and deploying modern web applications. Experienced in frontend development, backend APIs, database integration, and production deployment workflows.
 
-- 💻 Focused on full-stack development and scalable application architecture.
-- ⚛️ Experienced in building responsive interfaces with React.js and Next.js.
-- 🚀 Working with Node.js, Express.js, MongoDB, and modern web technologies.
-- 🔧 Interested in backend development, API design, deployment, and automation.
-- 🧠 Constantly learning new technologies and improving my engineering skills.
-- 🤝 Open to collaborating on interesting projects and innovative ideas.
+My engineering approach emphasizes maintainable code, responsive user interfaces, secure API design, and practical solutions to real-world problems.
 
-> My goal is to build software that is reliable, maintainable, and genuinely useful.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" alt="Backend Technologies"/>
-</p>
-
-### Databases & State Management
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis" alt="Databases"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,nginx,vercel" alt="Development Tools"/>
-</p>
+**Core areas**
+- Full-stack web application development
+- Frontend architecture and responsive UI engineering
+- REST API development and integration
+- Database design and application data management
+- Production deployment, server configuration, and troubleshooting
+- AI integrations and developer productivity solutions
 
 ---
 
-## 🚀 Featured Projects
+## Technical Expertise
 
-### 1. StubLab — AI-Driven Mock Server Platform
+### Frontend Engineering
 
-A model-driven API stubbing platform designed to streamline API development and testing workflows.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite" alt="Frontend Technology Stack"/>
+</p>
 
-- Simplifies mock API creation and management.
-- Helps developers work with APIs before backend services are ready.
-- Built as an academic project with a focus on improving development workflows.
+### Backend Engineering
 
-**Technologies:** React.js, Java, Spring Boot
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" alt="Backend Technology Stack"/>
+</p>
 
-📄 Research publication: *Streamlining API Workflow Through Model-Driven Stubbing*
+### Databases
 
-### 2. Civil Digital Software — E-commerce Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis" alt="Database Technologies"/>
+</p>
 
-A full-stack e-commerce platform for discovering and purchasing civil engineering software products.
+### Infrastructure & Developer Tools
 
-- Product catalogue with multiple categories.
-- Authentication, shopping cart, and checkout workflows.
-- Payment integration and backend API development.
-- Deployment and server configuration.
-
-**Technologies:** React, TypeScript, Node.js, Express.js, MongoDB, Nginx
-
-### 3. GiftieBags — E-commerce Application
-
-An e-commerce project focused on presenting products through a user-friendly online shopping experience.
-
-- Responsive user interface.
-- Product browsing and shopping-focused workflows.
-- Modern frontend development and deployment.
-
-**Technologies:** React.js / Next.js and modern web technologies
-
-### 4. Teksage — Web & Application Development
-
-Contributing to modern web application development, integrations, and deployment workflows.
-
-- Frontend development and responsive UI implementation.
-- API integration and backend connectivity.
-- Deployment configuration, domain management, and production troubleshooting.
-
-**Technologies:** Next.js, React.js, TypeScript, and related web technologies.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vercel,vscode" alt="Development and Infrastructure Tools"/>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## Selected Projects
+
+### StubLab — Model-Driven API Stubbing Platform
+
+An AI-driven mock server platform designed to streamline API development and testing workflows.
+
+**Engineering contributions**
+- Developed application interfaces for model creation and organization management.
+- Worked on the API stubbing workflow to help streamline development and testing.
+- Explored model-driven approaches to improve API development productivity.
+
+**Technology:** React.js, Java, Spring Boot
+
+**Research publication:** *Streamlining API Workflow Through Model-Driven Stubbing*, published in IJTRD, Volume 12, Issue 4, July–August 2025.
+
+---
+
+### Civil Digital Software — E-commerce Platform
+
+A full-stack e-commerce application for discovering and purchasing civil engineering software products.
+
+**Engineering contributions**
+- Developed product listing and category-based browsing functionality.
+- Implemented authentication, cart, and checkout workflows.
+- Integrated frontend interfaces with backend APIs.
+- Worked on payment integration and production deployment.
+- Configured server infrastructure and reverse proxy routing.
+
+**Technology:** React, TypeScript, Node.js, Express.js, MongoDB, Nginx
+
+---
+
+### Teksage — Web & Application Development
+
+Contributing to modern web application development and deployment workflows.
+
+**Engineering focus**
+- Responsive frontend development.
+- Backend integration and API connectivity.
+- Production troubleshooting and deployment configuration.
+- Domain management and application infrastructure.
+
+**Technology:** Next.js, React.js, TypeScript, and related web technologies.
+
+---
+
+### GiftieBags — E-commerce Application
+
+A web-based shopping experience focused on product discovery and intuitive user interactions.
+
+**Engineering focus**
+- Frontend implementation and responsive layouts.
+- Product presentation and shopping workflows.
+- Modern web application development and deployment.
+
+**Technology:** Modern JavaScript web technologies.
+
+---
+
+## Engineering Practices
+
+| Area | Focus |
+|---|---|
+| Architecture | Maintainable components and separation of concerns |
+| Frontend | Responsive interfaces, reusable components, and performance |
+| Backend | API design, validation, and reliable application logic |
+| Databases | Data modeling, CRUD operations, and query optimization |
+| Security | Authentication, input validation, and API protection |
+| Deployment | Linux servers, Nginx, environment configuration, and CI/CD |
+| Collaboration | Git, GitHub, code reviews, and documentation |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Profile Statistics"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most Used Programming Languages"/>
+</a>
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-- Building production-ready full-stack applications.
-- Improving React.js and Next.js architecture and performance.
-- Strengthening backend development and API security.
-- Learning better deployment, CI/CD, and server management practices.
-- Exploring AI integrations and developer productivity tools.
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore my repositories</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=stars">Explore my starred projects</a>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## Current Engineering Focus
 
-I'm always interested in connecting with developers, exploring innovative ideas, and collaborating on meaningful projects.
+- Developing production-ready full-stack applications.
+- Improving frontend architecture and application performance.
+- Building secure, maintainable backend APIs.
+- Strengthening database design and server-side reliability.
+- Improving deployment automation and CI/CD workflows.
+- Exploring practical AI integrations and developer tools.
+
+---
+
+## Professional Interests
+
+Full-Stack Development · Software Architecture · API Engineering · Database Systems · Cloud Deployment · Developer Tools · Applied AI
+
+---
+
+## Contact
+
+Interested in collaborating on software projects, exchanging technical ideas, or building useful products together?
 
 <div align="center">
 
-**Let's build something impactful together!**
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github" alt="Explore GitHub"/>
+</a>
 
-⭐ If you find my projects useful, consider giving them a star.
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+</a>
 
 </div>
+
+<p align="center">
+  <sub>Engineering with purpose. Building for impact.</sub>
+</p>
